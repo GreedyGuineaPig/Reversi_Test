@@ -1,6 +1,5 @@
 package com.example.reversitest;
 
-import com.example.*;
 
 import android.content.Context;
 import android.graphics.Canvas;
